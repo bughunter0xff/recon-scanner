@@ -1,6 +1,6 @@
 
 inputs:   
-  string-to-file-1.string: REPOSITORY_NAME
+  string-to-file-1.string: recon-scanner
   recursively-cat-all-5:
     file:
       - id_rsa
